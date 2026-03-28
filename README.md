@@ -1,2 +1,4 @@
 # Project-game
-**print**(hi)
+print("hi")
+game=UNLEASHED
+print("game")
